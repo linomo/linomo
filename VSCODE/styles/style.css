@@ -1,0 +1,42 @@
+p {
+    color: red;
+    text-align: center;
+  }
+
+  div {
+    color: #000501;
+    text-align: center;
+  }
+
+  /*html {
+    background-color: #d0f0d8;
+  
+  }*/
+
+  body {
+    
+    /*background-image: url('images/images.jpg');*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 800px 600px;
+
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: #ddfae4;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(141, 221, 172);
+  }
+
+  h1,h2 {
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  d
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
